@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_HCS12/MC9S12DT256:MC9S12DT256",
+  "name": "MC9S12DT256",
+  "library": "MCU_NXP_HCS12",
+  "file": "MCU_NXP_HCS12.kicad_symdir/MC9S12DT256.kicad_sym",
+  "description": "HCS12 Microcontroller",
+  "datasheet": "https://www.nxp.com/docs/en/fact-sheet/MC9S12DT256FS.pdf",
+  "keywords": "HCS12 MCU",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-hcs12@master/parts/MC9S12DT256/",
+  "part_path": "parts/MC9S12DT256",
+  "symbol_file": "parts/MC9S12DT256/MC9S12DT256.kicad_sym",
+  "source_library": "MCU_NXP_HCS12.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:24.057Z"
+}
